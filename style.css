@@ -1,15 +1,43 @@
-h1{
-  color: red;
+.milestones{
+  color: #B7950B;
+  text-align: center;
+  font-family: font-family: 'Press Start 2P', cursive;
 }
-h2{
+.videogames{
+  color: Red;
+  text-align: center;
+}
+.iphone_evolution{
   color: Blue;
+  text-align: center;
 }
-h3{
-  color: Yellow;
+.apple_computers{
+  color: Pink;
+  text-align: center;
 }
-h4{
+.led{
   color: Green;
+  text-align: center;
 }
-h5{
+.smartwatch{
   color: Purple;
+  text-align: center;
+}
+  /* Type Selector*/
+html {
+  background-color: yellow;
+  font-family: 'Anton', sans-serif;
+  word-spacing: normal;
+}
+.zach {
+  color: #3498DB
+}
+.wilson {
+  color: #B3B6B7
+}
+.google {
+  color: #5B2C6F
+}
+.hey{
+  color: #943126 
 }
